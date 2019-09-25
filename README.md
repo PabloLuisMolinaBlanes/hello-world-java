@@ -1,2 +1,3 @@
 # hello-world-java
-Hello world with Java
+
+A simple "Hello World" program done with Java.
